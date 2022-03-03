@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.App{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+.controls{
+    width: 40vw;
+}
+.box{
+    width: 40vw;
+    text-align: center;
+    padding: 25vh 0vh;
+    height: 50vh;
+    background-color: blueviolet;
+    color: white;
+}
